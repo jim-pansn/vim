@@ -1,0 +1,6 @@
+[submodule "/Users/janos/.vim/pack/plugins/start/rust.vim"]
+	path = /Users/janos/.vim/pack/plugins/start/rust.vim
+	url = https://github.com/rust-lang/rust.vim
+[submodule "pack/syntastic/start/syntastic.vim"]
+	path = pack/syntastic/start/syntastic.vim
+	url = https://github.com/vim-syntastic/syntastic.git/plugin/syntastic.vim
