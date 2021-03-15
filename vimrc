@@ -5,5 +5,6 @@ set expandtab "expand tab to spaces
 syntax enable "enable syntax highlighting
 filetype plugin indent on "detect filetype and load plugin and indent file accordingly
 colorscheme base16-material "set colorscheme
-inoremap jk <ESC> "exit insertmode by pressing j and k
-inoremap kj <ESC> "exit insertmode by pressing k and j
+"exit insertmode by pressing k and j
+inoremap jk <ESC>
+inoremap kj <ESC>
